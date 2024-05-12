@@ -1,2 +1,3 @@
 hi there how are u
 this for git pull 
+this is for git gui
