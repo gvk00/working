@@ -2,3 +2,4 @@ hi there how are u
 this for git pull 
 this is for git gui
 this is on line 4
+for git reset purpose
